@@ -6,7 +6,6 @@ Saas platform :
     https://e-petitpas.fr/
 Ai chatbot :
     https://aischool.e-petitpas.fr/
-
 CV_Gen :
     https://cv-generator-one-omega.vercel.app/
 <!---
