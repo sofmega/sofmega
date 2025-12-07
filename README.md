@@ -6,6 +6,9 @@ Saas platform :
     https://e-petitpas.fr/
 Ai chatbot :
     https://aischool.e-petitpas.fr/
+
+CV_Gen :
+    https://cv-generator-one-omega.vercel.app/
 <!---
 sofmega/sofmega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
