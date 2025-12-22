@@ -1,11 +1,7 @@
 - 👋 Hi, I’m Soufiane Radouane
 -  💬 "The compiler will always complain..." 💬
 - How to reach me : Soufiane.Radouane99@gmail.com 
--  Current live Projects :
-Saas platform :
-    https://e-petitpas.fr/
-Ai chatbot :
-    https://aischool.e-petitpas.fr/
+-  Current live Project :
 CV_Gen :
     https://cv-generator-one-omega.vercel.app/
 <!---
